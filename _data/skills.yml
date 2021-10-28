@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skills: Flask, MySQL, React, Java
+  description: 아무것도 모르던 상태라 상대적으로 배우고 사용하기 쉬운 Flask를 택했고 그에 따른 라이브러리들을 하나하나 익혀갔습니다
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Communications strategy, The importance of teamwork
+  description: 커뮤니케이션 전략과 팀워크의 중요함을 갖추고 있습니다.
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- tools: Postman, Anaconda, Jupyter, Google Colab
+#   description: Copy writing, graphic design, web design, front-end web development, print design

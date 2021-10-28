@@ -1,6 +1,6 @@
 # Skills
 # Flask, MySQL, React, Java
-- skill: skills: Flask, MySQL, React, Java
+- skill: skills - Flask, MySQL, React, Java
   description: 아무것도 모르던 상태라 상대적으로 배우고 사용하기 쉬운 Flask를 택했고 그에 따른 라이브러리들을 하나하나 익혀갔습니다
 
 # Communications strategy, The importance of teamwork
@@ -8,5 +8,5 @@
   description: 커뮤니케이션 전략과 팀워크의 중요함을 갖추고 있습니다.
 
 # Postman, Anaconda, Jupyter, Google Colab
-- skill: tools: Postman, Anaconda, Jupyter, Google Colab
+- skill: tools - Postman, Anaconda, Jupyter, Google Colab
 #   description: Copy writing, graphic design, web design, front-end web development, print design

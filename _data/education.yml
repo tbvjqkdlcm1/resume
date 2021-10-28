@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Electronic Engineering
+  uni: Gyeongsang National University
+#   year: 2004 &mdash; 2008
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Capstone Design Gold Award
+  summary: 전자공학과를 나와서 삼성전자 문턱까지 갔으나 억지로 하는것 같아서 진로를 변경
 
 - degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+  uni: Changsin High School
+#   year: 2004
+#   award: Most likely to succeed
+#   summary: You can choose to have either a single or multiple awards

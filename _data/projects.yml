@@ -2,15 +2,15 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: capstone design team project
+  role: Backend & embedded Developer
+  duration: 2018.09
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: 졸업작품으로 Gesture Gloves인 G.G를 만들었었는데 타노스 장갑을 끼고 손가락의 제스쳐를 취하면 손가락의 굽힘의 정도에 따라 미리 입력해둔 키값에 상응하는 기능을 구현하는 것이었습니다. 드론을 조정한다던가 ppt를 넘긴다던가 영화소리를 조절한다던가 하는등의 기능을 넣었었는데 제가 소프트웨어 쪽을 담당하여 아두이노와 장갑간에 키값을 주고받는 기능과 전체적인 코딩을 맡았었습니다. 그때는 뭣도 모르고 그냥 무조건 찾거나 블로거에게 직접 전화하는 등 발로 뛰었었습니다. 중간에 한번 팀원간 분열이 일어났을 때도 치킨을 사주며 여기까지 온거 다같이 해보자며 의지를 심기도 하였었습니다. 그 결과, 저희는 과에서 당당하게 1등을 거뭐지고 시 주관 경진대회에 나가서 금상의 영광을 맛봤었습니다.  
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Ssrang team project
+  role: Backend & data Developer
+  duration: 2021.10
   # url: "#"
   description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.

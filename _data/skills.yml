@@ -1,11 +1,10 @@
 # Skills
-# Flask, MySQL, React, Java
-- skill: skills - Flask, MySQL, React, java
+# Python, Java, MySQL
+- skill: skills - Python, Java, MySQL
 
 # Communications strategy, The importance of teamwork
 - skill: Communications strategy, The importance of teamwork
-  description: 커뮤니케이션 전략과 팀워크의 중요함을 갖추고 있습니다.
 
-# Postman, Anaconda, Jupyter, Google Colab
-- skill: tools - Postman, Anaconda, Jupyter, Google Colab, git
+# Postman, Anaconda, Google Colab, Git, Jenkins, Swagger
+- skill: tools - Postman, Anaconda, Google Colab, Git, Jenkins, Swagger
 #   description: Copy writing, graphic design, web design, front-end web development, print design
